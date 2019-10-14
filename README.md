@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi, Humans!
+
+Ando365 here! I like Boston-Terrier.
